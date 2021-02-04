@@ -6,7 +6,7 @@
 #
 # Made by Voronov Arkadiy Copyleft (c) 2021
 #---------------------------------------------------------------------
-name: CI-CD-Pipeline-to-AWS-ElasticBeastalk
+name: CI-CD-Pipeline-to-AWS-ElasticBeanstalk
 env:
   EB_PACKAGE_S3_BUCKET_NAME : "voronov-flask-app-test"
   EB_APPLICATION_NAME       : "MyFlask"
